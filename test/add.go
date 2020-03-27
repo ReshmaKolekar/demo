@@ -1,6 +1,6 @@
 package test
 
-func add() int {
+func Add() int {
 	return 2 + 2
 
 }
